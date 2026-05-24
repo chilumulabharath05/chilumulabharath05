@@ -95,7 +95,7 @@
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/Bharath-Chilumula">
+<a href="https://www.linkedin.com/in/bharath-chilumula-4a75bb335">
 <img src="https://img.shields.io/badge/LinkedIn-Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
