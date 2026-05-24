@@ -99,6 +99,9 @@
 <img src="https://img.shields.io/badge/LinkedIn-Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+
+<img src="https://leetcard.jacoblin.cool/chilumulabharath05?theme=dark&font=Cabin%20Condensed"/>
+
 --------------------------------------------------
 
 ⚡ FUN FACT
