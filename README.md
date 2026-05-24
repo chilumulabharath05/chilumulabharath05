@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Hire%20Me-00C853?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/Bharath-Chilumula">
+<a href="https://www.linkedin.com/in/bharath-chilumula-4a75bb335">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
