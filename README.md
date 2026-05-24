@@ -1,18 +1,114 @@
-# 💫 About Me:
-👋 Hi, I'm Bharath Chilumula<br><br>🎓 Computer Science Student | 💻 Web Developer | 🚀 Tech Enthusiast<br><br>🧑‍💻 About Me<br><br>- 🎓 Pursuing B.Tech in Computer Science (IT) at **Malla Reddy University**<br>- 📊 Current CGPA: **8.47**<br>- 💡 Passionate about **Web Development & Problem Solving**<br>- 🌱 Currently learning advanced **React & Backend Development**<br>- 🤝 Looking to collaborate on innovative and impactful projects<br><br>🚀 Skills<br><br>💻 Technical Skills<br><br>- 🌐 HTML, CSS, JavaScript<br>- ⚛️ React JS & React Native<br>- 🐍 Python<br>- 🗄️ MySQL<br><br>🧠 Soft Skills<br><br>- Analytical Thinking<br>- Communication<br>- Decision Making<br><br> 📂 Projects<br><br> 🤖 CodexAI – Codebase Analyzer<br><br>- Built an AI-powered tool to analyze codebases<br>- Helps developers understand structure & dependencies<br>- Improves debugging and code readability<br><br> 🔐 Random Password Generator<br><br>- Developed a secure password generator<br>- Includes advanced strength features<br>- Protects against brute-force attacks<br><br> ♟️ Chess Game<br><br>- Created an interactive chess game<br>- Implemented core game logic and rules<br>- Focused on UI/UX and smooth gameplay<br><br> 📚 Page & Co.<br><br>- Built a platform for remote sellers<br>- Enables individuals to sell books online<br><br>🏆 Achievements<br><br>- 🎯 CGPA 8.47 in B.Tech<br>- 💯 Perfect 10.0 CGPA in 10th<br>- 📈 91% in Intermediate<br>- 🤝 Active participant in technical & cultural events<br><br>📜 Certifications<br><br>- 📘 Cambridge English Empower B2 Level<br>- 💡 IIT Bombay Entrepreneurship Workshop<br>- 🤖 Be10x AI Tools Workshop<br><br><br>🌐 Connect With Me<br><br>- 📧 Email: [2311IT010047@mallareddyuniversity.ac.in](mailto:2311IT010047@mallareddyuniversity.ac.in)<br>- 💼 LinkedIn: [Bharath-Chilumula]<br>- 📱 Phone: +91 9573153300<br><br>🛠️ Tools & Technologies<br><br>👨‍💻 Languages & Frameworks<br><br>![HTML](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge\&logo=html5\&logoColor=white)<br>![CSS](https://img.shields.io/badge/CSS-2196F3?style=for-the-badge\&logo=css3\&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-FFC107?style=for-the-badge\&logo=javascript\&logoColor=black)<br>![React](https://img.shields.io/badge/React-00D8FF?style=for-the-badge\&logo=react\&logoColor=black)<br>![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)<br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)<br><br>🛠️ Tools & Platforms<br><br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)<br>![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)<br>![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)<br><br><br>📊 GitHub Stats<br><br>![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)<br><br>⚡ Fun Fact<br><br>💡 "I love building real-world projects that solve meaningful problems."<br><br>
+<div align="center">
 
+<h1>🚀 Bharath Chilumula</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imnotbharath_9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bharath-Chilumula) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chilumulabharath7@gmail.com) 
+<h3>💻 Full Stack Developer | 🎓 Computer Science Student | ⚡ Problem Solver</h3>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chilumulabharath05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=chilumulabharath05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chilumulabharath05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com?color=0AFFEF&size=24&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;React+%7C+Python+%7C+Full+Stack;Turning+Ideas+Into+Reality;Open+To+Opportunities" />
 
----
-[![](https://visitcount.itsvg.in/api?id=chilumulabharath05&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="mailto:chilumulabharath7@gmail.com">
+<img src="https://img.shields.io/badge/Hire%20Me-00C853?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/Bharath-Chilumula">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=chilumulabharath05&label=Profile%20Views&color=00C4CC&style=for-the-badge" />
+
+</div>
+
+--------------------------------------------------
+
+🎯 WHY HIRE ME?
+
+✔ Strong foundation in Full Stack Development  
+✔ Proven ability to build real-world projects  
+✔ Fast learner with problem-solving mindset  
+✔ Focused on writing clean, scalable code  
+✔ Passionate about delivering impact, not just code  
+
+--------------------------------------------------
+
+👨‍💻 ABOUT ME
+
+🎓 B.Tech Computer Science (IT) — Malla Reddy University  
+📊 CGPA: 8.47  
+
+💡 I specialize in building modern, responsive web applications  
+⚡ I enjoy solving complex problems with simple solutions  
+🚀 Currently mastering advanced React & backend systems  
+
+--------------------------------------------------
+
+🛠️ TECH STACK
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,python,mysql,mongodb,aws,git,github,vscode" />
+
+--------------------------------------------------
+
+🔥 FEATURED PROJECTS
+
+🚀 CodexAI – Codebase Analyzer  
+→ AI-powered tool to analyze and understand codebases  
+→ Improves debugging speed & developer productivity  
+
+🔐 Random Password Generator  
+→ Generates highly secure passwords  
+→ Designed to resist brute-force attacks  
+
+♟️ Chess Game  
+→ Fully functional chess engine with UI  
+→ Focus on performance & smooth experience  
+
+📚 Page & Co.  
+→ Marketplace for selling books online  
+→ Enables small sellers to go digital  
+
+--------------------------------------------------
+
+📈 ACHIEVEMENTS
+
+🏆 CGPA 8.47 in B.Tech  
+🥇 10.0 CGPA in 10th  
+📊 91% in Intermediate  
+🎯 Active in tech & cultural events  
+
+--------------------------------------------------
+
+📜 CERTIFICATIONS
+
+📘 Cambridge English B2 Level  
+💡 IIT Bombay Entrepreneurship Workshop  
+🤖 Be10x AI Tools Workshop  
+
+--------------------------------------------------
+
+🤝 LET'S CONNECT
+
+📧 chilumulabharath7@gmail.com  
+📱 +91 9573153300  
+
+<a href="https://instagram.com/imnotbharath_9">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/Bharath-Chilumula">
+<img src="https://img.shields.io/badge/LinkedIn-Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+--------------------------------------------------
+
+⚡ FUN FACT
+
+"I don’t just write code — I build solutions that matter."
+
+--------------------------------------------------
+
+<div align="center">
+
+<h3>⭐ Let's Build Something Amazing Together!</h3>
+
+</div>
