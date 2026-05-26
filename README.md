@@ -186,22 +186,6 @@ https://page-co-delta.vercel.app
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chilumulabharath05&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chilumulabharath05&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chilumulabharath05&theme=radical)
-
----
-
-# 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chilumulabharath05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 # 🌟 Professional Highlights
 
 - 🚀 Built scalable full-stack applications integrating AI, cloud, and blockchain technologies
@@ -229,10 +213,6 @@ https://page-co-delta.vercel.app
 
 🔬 Exploring: AI Systems, Distributed Architectures, Cloud Infrastructure, and Scalable Backend Engineering  
 🎯 Focused On: Full Stack Development, System Design, Spring Boot, and AI-powered applications
-
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=chilumulabharath05&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
