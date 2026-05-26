@@ -1,117 +1,241 @@
-<div align="center">
+# Hi there 👋 I'm Chilumula Bharath
 
-<h1>🚀 Bharath Chilumula</h1>
+### 🚀 Software Engineer | Full Stack Developer | AI & Backend Enthusiast | Cloud & System Design Learner
 
-<h3>💻 Full Stack Developer | 🎓 Computer Science Student | ⚡ Problem Solver</h3>
+- 🎓 Currently pursuing **B.Tech in Information Technology** at **Malla Reddy University** with a strong academic foundation and passion for scalable software engineering
+- 💻 Skilled in building modern full-stack applications using **Java, Python, JavaScript, React.js, Next.js, Spring Boot, FastAPI, MongoDB, MySQL, and Docker**
+- 🌱 Exploring **Artificial Intelligence, Distributed Systems, Backend Engineering, Cloud Infrastructure, and Blockchain Technologies**
+- ⚡ Passionate about designing **high-performance scalable applications** with focus on clean architecture, performance optimization, and user experience
+- 🚀 Developed multiple real-world projects including:
+  - **Decentralized Cloud Storage System**
+  - **AI-Powered Chatbot using Spring Boot**
+  - **Code Base Analyzer**
+  - **AI Image Style Transfer Application**
+  - **Task Management REST API**
+  - **Page & Co. Digital Marketplace**
+- 🧠 Strong understanding of **Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks, and System Design**
+- 🏆 Completed certifications and simulations from **J.P. Morgan, Tata, IBM, Deloitte, MasterCard, Cisco, and HackerRank**
+- 🎯 Focused on becoming a highly skilled **Software Engineer specializing in scalable backend systems, AI-powered applications, and cloud-native architectures**
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/bharath-chilumula-4a75bb335)
+- 📫 Reach me at: [**chilumulabharath6@gmail.com**](mailto:chilumulabharath6@gmail.com)
 
-<img src="https://readme-typing-svg.herokuapp.com?color=0AFFEF&size=24&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;React+%7C+Python+%7C+Full+Stack;Turning+Ideas+Into+Reality;Open+To+Opportunities" />
+---
 
-<br>
+## 🛠️ Technologies & Tools I Work With
 
-<a href="mailto:chilumulabharath7@gmail.com">
-<img src="https://img.shields.io/badge/Hire%20Me-00C853?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
 
-<a href="https://www.linkedin.com/in/bharath-chilumula-4a75bb335">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+---
 
-<img src="https://komarev.com/ghpvc/?username=chilumulabharath05&label=Profile%20Views&color=00C4CC&style=for-the-badge" />
+### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</div>
+---
 
---------------------------------------------------
+### ⚙️ Backend & APIs
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-🎯 WHY HIRE ME?
+---
 
-✔ Strong foundation in Full Stack Development  
-✔ Proven ability to build real-world projects  
-✔ Fast learner with problem-solving mindset  
-✔ Focused on writing clean, scalable code  
-✔ Passionate about delivering impact, not just code  
+### 🗄️ Databases & Storage
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
---------------------------------------------------
+---
 
-👨‍💻 ABOUT ME
+### ☁️ Cloud, Blockchain & DevOps
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 
-🎓 B.Tech Computer Science (IT) — Malla Reddy University  
-📊 CGPA: 8.47  
+---
 
-💡 I specialize in building modern, responsive web applications  
-⚡ I enjoy solving complex problems with simple solutions  
-🚀 Currently mastering advanced React & backend systems  
+### 🧠 Core Concepts
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6F00?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-673ab7?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-009688?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-darkblue?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-4285F4?style=for-the-badge)
 
---------------------------------------------------
+---
 
-🛠️ TECH STACK
+# 🚀 Featured Projects
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,python,mysql,mongodb,aws,git,github,vscode" />
+---
 
---------------------------------------------------
+## ☁️ Decentralized Cloud Storage System
 
-🔥 FEATURED PROJECTS
+Built a blockchain-powered decentralized cloud storage platform integrating IPFS and Ethereum for secure distributed storage.
 
-🚀 CodexAI – Codebase Analyzer  
-→ AI-powered tool to analyze and understand codebases  
-→ Improves debugging speed & developer productivity  
+### ⚡ Key Features
+- AES-256 encrypted storage
+- Smart contract metadata validation
+- JWT-secured REST APIs
+- Distributed file deduplication
+- Dockerized architecture
 
-🔐 Random Password Generator  
-→ Generates highly secure passwords  
-→ Designed to resist brute-force attacks  
+### 🛠️ Tech Stack
+`Next.js` `FastAPI` `Ethereum` `IPFS` `PostgreSQL` `Docker`
 
-♟️ Chess Game  
-→ Fully functional chess engine with UI  
-→ Focus on performance & smooth experience  
+---
 
-📚 Page & Co.  
-→ Marketplace for selling books online  
-→ Enables small sellers to go digital  
+## 🤖 AI-Powered Chatbot using Spring Boot
 
---------------------------------------------------
+Developed a conversational AI backend integrated with Google Gemini API supporting intelligent responses and session handling.
 
-📈 ACHIEVEMENTS
+### ⚡ Key Features
+- Gemini AI integration
+- Session-based conversation management
+- MongoDB chat history storage
+- RESTful backend APIs
 
-🏆 CGPA 8.47 in B.Tech  
-🥇 10.0 CGPA in 10th  
-📊 91% in Intermediate  
-🎯 Active in tech & cultural events  
+### 🛠️ Tech Stack
+`Spring Boot` `MongoDB` `REST APIs` `Gemini API`
 
---------------------------------------------------
+---
 
-📜 CERTIFICATIONS
+## 🧠 Code Base Analyzer
 
-📘 Cambridge English B2 Level  
-💡 IIT Bombay Entrepreneurship Workshop  
-🤖 Be10x AI Tools Workshop  
+Built a developer productivity tool that analyzes repositories and surfaces quality metrics and code structure insights.
 
---------------------------------------------------
+### ⚡ Key Features
+- AST-based parsing engine
+- Complexity analysis
+- Code smell detection
+- Performance optimized query handling
 
-🤝 LET'S CONNECT
+### 🛠️ Tech Stack
+`JavaScript` `Node.js` `MongoDB` `REST APIs`
 
-📧 chilumulabharath7@gmail.com  
-📱 +91 9573153300  
+🔗 Live Demo:  
+https://code-base-analyzer-api.vercel.app
 
-<a href="https://instagram.com/imnotbharath_9">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+---
 
-<a href="https://www.linkedin.com/in/bharath-chilumula-4a75bb335">
-<img src="https://img.shields.io/badge/LinkedIn-Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## 🎨 AI Image Style Transfer Application
 
+Created a deep learning application enabling artistic image transformations using neural networks.
 
-<img src="https://leetcard.jacoblin.cool/chilumulabharath05?theme=dark&font=Cabin%20Condensed"/>
+### ⚡ Key Features
+- VGG-19 CNN style transfer
+- Real-time image processing
+- Optimized inference performance
+- Artistic rendering pipeline
 
---------------------------------------------------
+### 🛠️ Tech Stack
+`Python` `TensorFlow` `Flask` `Neural Networks`
 
-⚡ FUN FACT
+---
 
-"I don’t just write code — I build solutions that matter."
+## 📋 Task Management REST API
 
---------------------------------------------------
+Developed a scalable REST API with authentication and task persistence architecture.
 
-<div align="center">
+### ⚡ Key Features
+- JWT Authentication
+- CRUD task management
+- Secure API architecture
+- Error handling & validation
 
-<h3>⭐ Let's Build Something Amazing Together!</h3>
+### 🛠️ Tech Stack
+`Spring Boot` `JWT` `MySQL` `REST APIs`
 
-</div>
+---
+
+## 📚 Page & Co. — Digital Book Marketplace
+
+Built a scalable marketplace platform helping rural sellers distribute books digitally.
+
+### ⚡ Key Features
+- Full-stack architecture
+- Responsive user interface
+- Book catalog management
+- Scalable deployment
+
+### 🛠️ Tech Stack
+`React.js` `MongoDB` `REST APIs`
+
+🔗 Live Demo:  
+https://page-co-delta.vercel.app
+
+---
+
+# 💼 Certifications & Virtual Experience
+
+### 🏆 Industry Certifications
+- J.P. Morgan — Software Engineering Job Simulation
+- Tata — GenAI Powered Data Analytics
+- IBM SkillsBuild — Introduction to Cloud
+- Deloitte — Data Analytics Job Simulation
+- MasterCard — Cybersecurity Job Simulation
+- Cisco Networking Academy — Modern AI
+- HackerRank — Java Certification
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chilumulabharath05&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chilumulabharath05&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chilumulabharath05&theme=radical)
+
+---
+
+# 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chilumulabharath05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+# 🌟 Professional Highlights
+
+- 🚀 Built scalable full-stack applications integrating AI, cloud, and blockchain technologies
+- ⚡ Developed optimized REST APIs with secure authentication architectures
+- 🧠 Strong analytical thinking and problem-solving mindset
+- ☁️ Knowledge of cloud-native deployments and distributed systems
+- 📊 Experience building modern responsive frontend applications
+- 🎯 Focused on scalable backend engineering and AI-powered systems
+
+---
+
+# 🔗 Connect with Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://ch-bharath-portfolio.netlify.app)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-chilumula-4a75bb335)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chilumulabharath05)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chilumulabharath6@gmail.com)
+
+---
+
+# 💡 Current Focus
+
+🔬 Exploring: AI Systems, Distributed Architectures, Cloud Infrastructure, and Scalable Backend Engineering  
+🎯 Focused On: Full Stack Development, System Design, Spring Boot, and AI-powered applications
+
+---
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=chilumulabharath05&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+# ⚡ Developer Philosophy
+
+> *"Build scalable systems. Solve real-world problems. Keep evolving with technology."*
